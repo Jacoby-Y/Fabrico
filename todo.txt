@@ -1,4 +1,3 @@
 Da List:
-- Unlock new resources functionality
 - Sell resources
 - Upgrade resource
